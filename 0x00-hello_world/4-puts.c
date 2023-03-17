@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main - entry point
- *retun : always 0 (success)
-*/
+  * main - A program printing a line with puts function
+  * Return: 0 (Sucess)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
