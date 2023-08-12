@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * get_bit_val - to return a bit's value at the decimal's index.
+ * get_bit - to return a bit's value at the decimal's index.
  * @n: n is for the number we are searching.
  * @index: This shows the bit's index.
  *
