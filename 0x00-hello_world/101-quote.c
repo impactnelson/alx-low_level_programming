@@ -1,10 +1,13 @@
-#include <stdio.h>
 #include <unistd.h>
+#include <stdio.h>
+
 /**
- * main - A c program that prints a line to the standard c error
- * Return: 1 (Success)
+ * main - This c program prints a line of quote.
+ * Return: Returns 1 for success, Otherwise.
  */
 int main(void)
 {
-	fput("and that piece of art is useful" - Dora Korpar, 2015-10-19 n", stdout);
+	printf("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+
 	return (1);
+}
